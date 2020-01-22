@@ -4,4 +4,6 @@ Senior Capstone Project at Denison University. Made use of Convolutional Neural 
 
 Data has been obtained for this project in the form of satellite images from the USGS NAIP (National Agriculture Imagery Program) satellite. This is availible open source, however, not included in this respository due to size of individual images.
 
+Contains Final results, r and python scripts for analysis and image classifications.
+
 *** Note *** The DBN code has been removed from the repository due to its inability to run correctly at this time
